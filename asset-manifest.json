@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/starwars-plot-droide/static/css/main.911e2425.chunk.css",
-    "main.js": "/starwars-plot-droide/static/js/main.44e02245.chunk.js",
-    "main.js.map": "/starwars-plot-droide/static/js/main.44e02245.chunk.js.map",
-    "runtime-main.js": "/starwars-plot-droide/static/js/runtime-main.3e9b825a.js",
-    "runtime-main.js.map": "/starwars-plot-droide/static/js/runtime-main.3e9b825a.js.map",
-    "static/js/2.4bf34477.chunk.js": "/starwars-plot-droide/static/js/2.4bf34477.chunk.js",
-    "static/js/2.4bf34477.chunk.js.map": "/starwars-plot-droide/static/js/2.4bf34477.chunk.js.map",
-    "index.html": "/starwars-plot-droide/index.html",
-    "precache-manifest.7671a67184a6353163f7435ade1f74cf.js": "/starwars-plot-droide/precache-manifest.7671a67184a6353163f7435ade1f74cf.js",
-    "service-worker.js": "/starwars-plot-droide/service-worker.js",
-    "static/css/main.911e2425.chunk.css.map": "/starwars-plot-droide/static/css/main.911e2425.chunk.css.map",
-    "static/media/index.scss": "/starwars-plot-droide/static/media/starwars.3f085be9.ttf",
-    "static/media/droid.png": "/starwars-plot-droide/static/media/droid.a9df3614.png",
-    "static/media/App.scss": "/starwars-plot-droide/static/media/stars3.f81f6f7b.png"
+    "main.css": "/starwars-plotdroid/static/css/main.ed4f783a.chunk.css",
+    "main.js": "/starwars-plotdroid/static/js/main.a09c445c.chunk.js",
+    "main.js.map": "/starwars-plotdroid/static/js/main.a09c445c.chunk.js.map",
+    "runtime-main.js": "/starwars-plotdroid/static/js/runtime-main.a9398ad2.js",
+    "runtime-main.js.map": "/starwars-plotdroid/static/js/runtime-main.a9398ad2.js.map",
+    "static/js/2.4bf34477.chunk.js": "/starwars-plotdroid/static/js/2.4bf34477.chunk.js",
+    "static/js/2.4bf34477.chunk.js.map": "/starwars-plotdroid/static/js/2.4bf34477.chunk.js.map",
+    "index.html": "/starwars-plotdroid/index.html",
+    "precache-manifest.f216cff8f55a8601078f7d02fb038324.js": "/starwars-plotdroid/precache-manifest.f216cff8f55a8601078f7d02fb038324.js",
+    "service-worker.js": "/starwars-plotdroid/service-worker.js",
+    "static/css/main.ed4f783a.chunk.css.map": "/starwars-plotdroid/static/css/main.ed4f783a.chunk.css.map",
+    "static/media/index.scss": "/starwars-plotdroid/static/media/starwars.3f085be9.ttf",
+    "static/media/droid.png": "/starwars-plotdroid/static/media/droid.a9df3614.png",
+    "static/media/App.scss": "/starwars-plotdroid/static/media/stars3.f81f6f7b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e9b825a.js",
+    "static/js/runtime-main.a9398ad2.js",
     "static/js/2.4bf34477.chunk.js",
-    "static/css/main.911e2425.chunk.css",
-    "static/js/main.44e02245.chunk.js"
+    "static/css/main.ed4f783a.chunk.css",
+    "static/js/main.a09c445c.chunk.js"
   ]
 }
